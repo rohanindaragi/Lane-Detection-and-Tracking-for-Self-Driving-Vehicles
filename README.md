@@ -26,3 +26,37 @@ The project demonstrates a high level of accuracy in lane detection and tracking
 Conclusion
 
 The lane detection and tracking system developed in this project offers significant improvements over existing solutions, providing accurate, real-time information on road conditions. Future enhancements could include expanding the dataset for training machine learning models and integrating additional sensors to improve system robustness​​.
+
+
+#OUTPUT
+
+![ss1](https://github.com/rohanindaragi/Lane-Detection-and-Tracking-for-Self-Driving-Vehicles/assets/75676864/23b0d76e-283f-4320-a383-9e767aee04a2)
+
+Road Lane Detection  
+
+![ss2](https://github.com/rohanindaragi/Lane-Detection-and-Tracking-for-Self-Driving-Vehicles/assets/75676864/387f70d5-003f-4feb-b957-a32e135ab3c3)
+
+Process of lane detection
+
+![ss3](https://github.com/rohanindaragi/Lane-Detection-and-Tracking-for-Self-Driving-Vehicles/assets/75676864/09c6dde7-a4e4-4ab3-926d-fe66b1c40e88)
+
+Detection of Pathole 
+
+![ss4](https://github.com/rohanindaragi/Lane-Detection-and-Tracking-for-Self-Driving-Vehicles/assets/75676864/6c74fc1a-81ca-4a75-8274-08311db5f857)
+
+Detection of Road humps
+
+![ss5](https://github.com/rohanindaragi/Lane-Detection-and-Tracking-for-Self-Driving-Vehicles/assets/75676864/e95c4ef2-9835-4c9d-9340-ca05fe7025e4)
+
+Detection of triffic signs
+
+![ss6](https://github.com/rohanindaragi/Lane-Detection-and-Tracking-for-Self-Driving-Vehicles/assets/75676864/e96ae62a-9bfb-47de-83ef-2d4cc7ec02b7)
+
+Detecting Traffic Lights
+
+
+
+
+
+
+
